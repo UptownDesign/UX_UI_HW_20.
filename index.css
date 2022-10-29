@@ -1,0 +1,63 @@
+
+.navbar {
+display: inline-block;
+vertical-align: top;
+}
+
+.logo {
+  width: 23%;
+  padding: 1%;
+}
+
+.nav {
+  width: 73%;
+  padding: 1%
+}
+.right {
+  align: right;
+}
+
+.ul {
+  width: 50%;
+  margin-left: auto;
+}
+
+.logo {
+  text-align: center;
+}
+
+/* .heroImg {
+  height: 600px;
+  padding: 25px;
+} */
+
+p {
+  width: 500px;
+  margin: 0 auto;
+}
+
+footer {
+  background-color: #373738;
+}
+
+.ul .li {
+  padding: auto;
+  display: inline-block;
+  align:vertical-align
+  padding: 50px;
+}
+
+/* My UX Skills section coded using CSS flex */
+
+.flexContainer {
+  display: flex;
+  margin: 0%;
+}
+
+/* My Work Section Constructed using CSS Grid */
+
+.myWork {
+display: flex;
+flex-direction: column;
+
+}
